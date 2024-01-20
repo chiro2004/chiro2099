@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiradeep Jana</h1>
 <h3 align="center">A passionate software developer from India </h3>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/chiradeep-jana-1930a9212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdFtS%2BKZxTcuAeSn5%2By3rGg%3D%3D"></a>
+
 
 <p align="left">
 </p>
